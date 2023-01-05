@@ -1,0 +1,1 @@
+["limit_balance", "sex", "education_level", "marital_status", "age", "pay_sep", "pay_aug", "pay_july", "pay_june", "pay_may", "pay_apr", "bill_amt_1", "bill_amt_aug", "bill_amt_july", "bill_amt_june", "bill_amt_may", "bill_amt_apr", "pay_amt_sep", "pay_amt_aug", "pay_amt_july", "pay_amt_june", "pay_amt_may", "pay_amt_apr"]
